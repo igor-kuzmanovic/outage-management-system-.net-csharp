@@ -1,7 +1,7 @@
-# Project Info
+# Project Information
 * ProjectInfo.pdf	- Project information
 
-# Dokumentacija
+# Documentation
 * Documentation.eap	- Architecture and design diagrams
 * Documentation.pdf	- Architecture and design diagrams in PDF format
 
